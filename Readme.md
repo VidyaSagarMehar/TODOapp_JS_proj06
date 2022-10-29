@@ -6,8 +6,7 @@
 
 ## Project Title - TODO Web App Javascript project 06
 
-A JavaScript Project that allows to add bookmarks and by clicking on the added bookmark link you can copy the bookmarked link on your clipboard. 
-
+A JavaScript TODO web app where you can add your todo work on the app and you can also mark them if the todo is completed and also you can remove the todo's from list.
 ## Average time to complete
 #### 3 hrs
 
