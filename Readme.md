@@ -4,7 +4,7 @@
 ## 🚀 I'm a front-end developer...
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## Project Title - TODO Web App Javascript project 06
+## Project Title - TODO Web App Javascript project
 
 A JavaScript TODO web app where you can add your todo work on the app and you can also mark them if the todo is completed and also you can remove the todo's from list.
 ## Average time to complete
